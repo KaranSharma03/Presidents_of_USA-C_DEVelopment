@@ -1,0 +1,21 @@
+The Presidents:
+
+Name: George Washington, Took Office on date: 30/4/1789
+
+Name: Thomas Jefferson, Took Office on date: 4/3/1801
+
+Name: Abraham Lincoln, Took Office on date: 4/3/1861
+
+Name: Theodore Roosevelt, Took Office on date: 14/9/1901
+
+After Swapping the info:
+The Presidents:
+
+Name: George Washington, Took Office on date: 30/4/1789
+
+Name: Abraham Lincoln, Took Office on date: 4/3/1861
+
+Name: Thomas Jefferson, Took Office on date: 4/3/1801
+
+Name: Theodore Roosevelt, Took Office on date: 14/9/1901
+
